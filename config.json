@@ -1,6 +1,12 @@
 {
   "markets": [
-    { "symbol": "frxXAUUSD", "name": "Gold (XAU/USD)", "timeframe": "15m" }
+    { "symbol": "frxXAUUSD", "name": "Gold (XAU/USD)", "timeframe": "15m" },
+    { "symbol": "cryBTCUSD", "name": "Bitcoin", "timeframe": "15m" },
+    { "symbol": "R_100", "name": "Volatility 100", "timeframe": "15m" },
+    { "symbol": "R_75", "name": "Volatility 75", "timeframe": "15m" },
+    { "symbol": "R_50", "name": "Volatility 50", "timeframe": "15m" },
+    { "symbol": "1HZ90V", "name": "Volatility 90 (1s)", "timeframe": "15m" },
+    { "symbol": "1HZ50V", "name": "Volatility 50 (1s)", "timeframe": "15m" }
   ],
   "targetR": 1.0,
   "forexSpreadPips": 1.5,
