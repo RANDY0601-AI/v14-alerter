@@ -1,12 +1,12 @@
 {
  "markets": {
   "frxXAUUSD_900": {
-   "lastBar": 1795414500,
-   "updated": 1795415420,
+   "lastBar": 1795415400,
+   "updated": 1795416317,
    "open": null
   }
  },
  "newsSent": [],
  "spikes": {},
- "lastRun": 1795415420
+ "lastRun": 1795416317
 }
