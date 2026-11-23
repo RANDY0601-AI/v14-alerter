@@ -1,0 +1,10 @@
+{
+  "markets": [
+    { "symbol": "frxXAUUSD", "name": "Gold (XAU/USD)", "timeframe": "15m" }
+  ],
+  "targetR": 1.0,
+  "forexSpreadPips": 1.5,
+  "lateEntryMaxR": 0.25,
+  "alertEverySignal": false,
+  "news": { "enabled": true, "minutesBefore": 15, "postNewsReport": true, "warnWindowMinutes": 30 }
+}
