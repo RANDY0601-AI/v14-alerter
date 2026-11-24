@@ -1,42 +1,42 @@
 {
  "markets": {
   "frxXAUUSD_900": {
-   "lastBar": 1795478400,
-   "updated": 1795479317,
+   "lastBar": 1795479300,
+   "updated": 1795480219,
    "open": null
   },
   "cryBTCUSD_900": {
-   "lastBar": 1795478400,
-   "updated": 1795479318,
+   "lastBar": 1795479300,
+   "updated": 1795480220,
    "open": null
   },
   "R_100_900": {
-   "lastBar": 1795478400,
-   "updated": 1795479319,
+   "lastBar": 1795479300,
+   "updated": 1795480221,
    "open": null
   },
   "R_75_900": {
-   "lastBar": 1795478400,
-   "updated": 1795479320,
+   "lastBar": 1795479300,
+   "updated": 1795480222,
    "open": null
   },
   "R_50_900": {
-   "lastBar": 1795478400,
-   "updated": 1795479321,
+   "lastBar": 1795479300,
+   "updated": 1795480223,
    "open": null
   },
   "1HZ90V_900": {
-   "lastBar": 1795478400,
-   "updated": 1795479322,
+   "lastBar": 1795479300,
+   "updated": 1795480224,
    "open": null
   },
   "1HZ50V_900": {
-   "lastBar": 1795478400,
-   "updated": 1795479323,
+   "lastBar": 1795479300,
+   "updated": 1795480225,
    "open": null
   }
  },
  "newsSent": [],
  "spikes": {},
- "lastRun": 1795479323
+ "lastRun": 1795480225
 }
