@@ -1,45 +1,52 @@
 {
  "markets": {
   "frxXAUUSD_900": {
-   "lastBar": 1795611600,
-   "updated": 1795612934,
+   "lastBar": 1795617900,
+   "updated": 1795619204,
    "open": null
   },
   "cryBTCUSD_900": {
-   "lastBar": 1795611600,
-   "updated": 1795612936,
+   "lastBar": 1795617900,
+   "updated": 1795619206,
    "open": null
   },
   "R_100_900": {
-   "lastBar": 1795611600,
-   "updated": 1795612937,
+   "lastBar": 1795617900,
+   "updated": 1795619207,
    "open": null
   },
   "R_75_900": {
-   "lastBar": 1795611600,
-   "updated": 1795612938,
+   "lastBar": 1795617900,
+   "updated": 1795619209,
    "open": null
   },
   "R_50_900": {
-   "lastBar": 1795611600,
-   "updated": 1795612939,
+   "lastBar": 1795617900,
+   "updated": 1795619210,
    "open": null
   },
   "1HZ90V_900": {
-   "lastBar": 1795611600,
-   "updated": 1795612940,
+   "lastBar": 1795617900,
+   "updated": 1795619212,
    "open": null
   },
   "1HZ50V_900": {
-   "lastBar": 1795611600,
-   "updated": 1795612942,
+   "lastBar": 1795617900,
+   "updated": 1795619213,
    "open": null
   }
  },
  "newsSent": [
   "pre|USD|Core PCE Price Index m/m|1795613400",
-  "pre|USD|Prelim GDP q/q|1795613400"
+  "pre|USD|Prelim GDP q/q|1795613400",
+  "post|USD|Core PCE Price Index m/m|1795613400",
+  "post|USD|Prelim GDP q/q|1795613400"
  ],
- "spikes": {},
- "lastRun": 1795612943
+ "spikes": {
+  "frxXAUUSD": {
+   "t": 1795614300,
+   "dir": -1
+  }
+ },
+ "lastRun": 1795619214
 }
