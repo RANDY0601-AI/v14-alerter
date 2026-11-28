@@ -2,41 +2,41 @@
  "markets": {
   "frxXAUUSD_900": {
    "lastBar": 1795807800,
-   "updated": 1795823620,
+   "updated": 1795828324,
    "open": null
   },
   "cryBTCUSD_900": {
-   "lastBar": 1795822200,
-   "updated": 1795823621,
+   "lastBar": 1795826700,
+   "updated": 1795828325,
    "open": null
   },
   "R_100_900": {
-   "lastBar": 1795822200,
-   "updated": 1795823630,
-   "open": {
-    "side": "SELL",
-    "stop": 386.53533770547637,
-    "target": 377.94466229452365
-   }
+   "lastBar": 1795826700,
+   "updated": 1795828334,
+   "open": null
   },
   "R_75_900": {
-   "lastBar": 1795822200,
-   "updated": 1795823631,
+   "lastBar": 1795826700,
+   "updated": 1795828335,
    "open": null
   },
   "R_50_900": {
-   "lastBar": 1795822200,
-   "updated": 1795823632,
+   "lastBar": 1795826700,
+   "updated": 1795828335,
    "open": null
   },
   "1HZ90V_900": {
-   "lastBar": 1795822200,
-   "updated": 1795823633,
-   "open": null
+   "lastBar": 1795826700,
+   "updated": 1795828343,
+   "open": {
+    "side": "BUY",
+    "stop": 28978.4236424858,
+    "target": 29344.332357514202
+   }
   },
   "1HZ50V_900": {
-   "lastBar": 1795822200,
-   "updated": 1795823634,
+   "lastBar": 1795826700,
+   "updated": 1795828344,
    "open": null
   }
  },
@@ -52,5 +52,5 @@
    "dir": -1
   }
  },
- "lastRun": 1795823634
+ "lastRun": 1795828344
 }
